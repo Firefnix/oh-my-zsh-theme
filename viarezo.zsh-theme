@@ -28,7 +28,7 @@ set_default OHMYVIAREZO_CONTEXT_HOSTNAME         "full"
 set_default OHMYVIAREZO_CONTEXT_HOSTNAME_COLOR   "%B%F{white}"
 set_default OHMYVIAREZO_CONTEXT_SEPARATOR_COLOR  "%B%F{yellow}"
 set_default OHMYVIAREZO_CONTEXT_ROOT_COLOR       "%B%F{blue}"
-set_default OHMYVIAREZO_CONTEXT_USER_COLOR       "%B%F{red}"
+set_default OHMYVIAREZO_CONTEXT_USER_COLOR       "%B%F{purple}"
 
 set_default OHMYVIAREZO_DIR_COLOR                "%B%F{green}"
 

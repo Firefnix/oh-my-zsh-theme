@@ -28,7 +28,9 @@ prompt_context () {
 	fi
 	local hostname="$OHMYVIAREZO_CONTEXT_HOSTNAME_COLOR${colorless_hostname}%b%f"
 
-	echo "${username}${separator}${hostname}"
+	# changed by @viarezo 11/04/24 17:30
+    # echo "${username}${separator}${hostname}" # old version
+    echo "${username}" # new version
 }
 
 # Print current directory with ~ instead of $HOME
